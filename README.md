@@ -5,9 +5,9 @@ There are two type of componante to do decision
 2- Conditional Statement says what to do in a given situation
 
 ## USING IF...ELSE STATEMENTS
-1- An if statement only runs a set of statements if the
+- 1- An if statement only runs a set of statements if the
 condition is true: 
-2- An if ... else statement runs one set of code if the
+- 2- An if ... else statement runs one set of code if the
 condition is true or a different set if it is fa1se: 
 ## SWITCH STATEMENTS
 A switch statement starts with avariable called the switch value.
